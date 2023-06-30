@@ -26,6 +26,7 @@ function Input(props) {
         <input value={state}  onChange={inputHanble} placeholder='texs'/>
 
         <button onClick={buttonHanbel}>ADD</button>
+        <button onClick={buttonHanbel}>ADD</button>
     </div>
   )
 }
